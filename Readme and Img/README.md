@@ -57,3 +57,21 @@ Admin-DashBoard
 
 Revenue-DashBoard(inside Admin)
 <img src = "https://github.com/revanthvezzu-sketch/Pizza-Store-Capstone-Project/blob/9e40c7dc4ad5b5e9f85cb434a14b7826e954db5b/Readme%20and%20Img/Images/RevenueDasboard.png" alt = "Revenue - DashBoard">
+
+<p>
+<h3>Database Images</h3>
+
+User
+<img src="https://github.com/revanthvezzu-sketch/Pizza-Store-Capstone-Project/blob/51dd9f6c9dda551f8d92192c7b6166e730e77b82/Database-img/userdb.png" alt="UserDb">
+
+Order
+<Img src="https://github.com/revanthvezzu-sketch/Pizza-Store-Capstone-Project/blob/51dd9f6c9dda551f8d92192c7b6166e730e77b82/Database-img/orderdb.png
+" alt="OrderDb" >
+
+Bill
+<img src="https://github.com/revanthvezzu-sketch/Pizza-Store-Capstone-Project/blob/51dd9f6c9dda551f8d92192c7b6166e730e77b82/Database-img/billdb.png" alt="BillDb">
+</p>
+
+
+
+
