@@ -10,7 +10,7 @@ In workflow-
 5.revenue analytics dashboard (admin)
 6.change or edit items (admin)
 
-Inside frontend code:
+<h1>Inside frontend code:</h1>
 
 1.items image - Array 
 (solving - out of runing image )
