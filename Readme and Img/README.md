@@ -44,18 +44,16 @@ Page
 <img src="https://github.com/revanthvezzu-sketch/Pizza-Store-Capstone-Project/blob/9e40c7dc4ad5b5e9f85cb434a14b7826e954db5b/Readme%20and%20Img/Images/img1.png" alt="Page">
 
 RegisterPage
-<img src="https://github.com/revanthvezzu-sketch/Pizza-Store-Capstone-Project/blob/9e40c7dc4ad5b5e9f85cb434a14b7826e954db5b/Readme%20and%20Img/Images/Register.png
-" alt="RegiterPage">
+<img src="https://github.com/revanthvezzu-sketch/Pizza-Store-Capstone-Project/blob/9e40c7dc4ad5b5e9f85cb434a14b7826e954db5b/Readme%20and%20Img/Images/Register.png" alt="RegiterPage">
 
 LoginPage
 <img src="https://github.com/revanthvezzu-sketch/Pizza-Store-Capstone-Project/blob/9e40c7dc4ad5b5e9f85cb434a14b7826e954db5b/Readme%20and%20Img/Images/Login.png" alt="LoginPage">
 
 User-DashBoard
-<img src="https://github.com/revanthvezzu-sketch/Pizza-Store-Capstone-Project/blob/9e40c7dc4ad5b5e9f85cb434a14b7826e954db5b/Readme%20and%20Img/Images/UserDashboard.png
-" alt="User-DashBoard">
+<img src="https://github.com/revanthvezzu-sketch/Pizza-Store-Capstone-Project/blob/9e40c7dc4ad5b5e9f85cb434a14b7826e954db5b/Readme%20and%20Img/Images/UserDashboard.png" alt="User-DashBoard">
 
 Admin-DashBoard
-<img src=https://github.com/revanthvezzu-sketch/Pizza-Store-Capstone-Project/blob/9e40c7dc4ad5b5e9f85cb434a14b7826e954db5b/Readme%20and%20Img/Images/AdminDashboard.png"" alt = "User-Dashbord">
+<img src="https://github.com/revanthvezzu-sketch/Pizza-Store-Capstone-Project/blob/9e40c7dc4ad5b5e9f85cb434a14b7826e954db5b/Readme%20and%20Img/Images/AdminDashboard.png" alt = "User-Dashbord">
 
 Revenue-DashBoard(inside Admin)
 <img src = "https://github.com/revanthvezzu-sketch/Pizza-Store-Capstone-Project/blob/9e40c7dc4ad5b5e9f85cb434a14b7826e954db5b/Readme%20and%20Img/Images/RevenueDasboard.png" alt = "Revenue - DashBoard">
