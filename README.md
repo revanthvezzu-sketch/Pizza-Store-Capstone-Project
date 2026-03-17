@@ -3,7 +3,7 @@
 <h2>Features</h2>
 
 <p>
-  <i>In workflow-</i> 
+  <i>In workflow-</i> <br>
   1. User login/register<br>
   2. User Order the item<br>
   3. User Item store in card<br>
@@ -20,7 +20,7 @@
 
 <h4>Extra Features</h4>
 
-<i>In workflow-</i>
+<i>In workflow-</i><br>
 1.Timer in order (user)<br>
 2.bill aprove or deny (admin)<br>
 3.bill popup notification (admin and user)<br>
