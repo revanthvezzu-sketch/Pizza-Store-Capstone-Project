@@ -65,8 +65,7 @@ User
 <img src="https://github.com/revanthvezzu-sketch/Pizza-Store-Capstone-Project/blob/51dd9f6c9dda551f8d92192c7b6166e730e77b82/Database-img/userdb.png" alt="UserDb">
 
 Order
-<Img src="https://github.com/revanthvezzu-sketch/Pizza-Store-Capstone-Project/blob/51dd9f6c9dda551f8d92192c7b6166e730e77b82/Database-img/orderdb.png
-" alt="OrderDb" >
+<Img src="https://github.com/revanthvezzu-sketch/Pizza-Store-Capstone-Project/blob/51dd9f6c9dda551f8d92192c7b6166e730e77b82/Database-img/orderdb.png" alt="OrderDb" >
 
 Bill
 <img src="https://github.com/revanthvezzu-sketch/Pizza-Store-Capstone-Project/blob/51dd9f6c9dda551f8d92192c7b6166e730e77b82/Database-img/billdb.png" alt="BillDb">
