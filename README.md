@@ -1,8 +1,8 @@
 Extra Features
 
-clients side:
+Frontend:
 
-In flow-
+In workflow-
 1.Timer in order (user)
 2.bill aprove or deny (admin)
 3.bill popup notification (admin and user)
@@ -10,7 +10,7 @@ In flow-
 5.revenue analytics dashboard (admin)
 6.change or edit items (admin)
 
-Server side:
+Inside frontend code:
 
 1.items image - Array 
 (solving - out of runing image )
