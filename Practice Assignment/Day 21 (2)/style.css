@@ -1,0 +1,15 @@
+body {
+    font-family: Arial;
+    text-align: center;
+}
+
+button {
+    padding: 10px 20px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+img {
+    border-radius: 50%;
+    margin-top: 10px;
+}
